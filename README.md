@@ -1,9 +1,13 @@
 **Novelty :-**
-**Specially designed dataset for a124 countries and trained using RNNs.
-Implementing L2 regularization to prevent over fitting
-Implementing Xavier's weight initialization to retain gradients better
-Utilizing tanh as an activation function to prevent gradient losses
-Implementing momentum to speed up training**
+**Specially designed dataset for a124 countries and trained using RNNs.**
+
+**Implementing L2 regularization to prevent over fitting**
+
+**Implementing Xavier's weight initialization to retain gradients better**
+
+**Utilizing tanh as an activation function to prevent gradient losses**
+
+**Implementing momentum to speed up training**
 
 
 ![Screenshot (41)](https://user-images.githubusercontent.com/43857178/137639308-105cc805-b1bc-4281-9cd9-4108dfc68a72.png)
